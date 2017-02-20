@@ -3,7 +3,7 @@
 #include "static_table.h"
 
 namespace dynamic_table {
-	//константы
+	//РєРѕРЅСЃС‚Р°РЅС‚С‹
 	struct constanta {
 		string value;
 		int type;
@@ -20,7 +20,7 @@ namespace dynamic_table {
 		void ChangeConst(int numb, constanta c);
 	};
 
-	//идентификаторы
+	//РёРґРµРЅС‚РёС„РёРєР°С‚РѕСЂС‹
 	struct Identificator {
 		string name;
 		int type;
